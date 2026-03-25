@@ -1,5 +1,6 @@
 # 🌌 AI Chatbot v4.0 - Immersive 3D Multimodal Hub
 
+https://ai-chatbot-whiaqowab-abhinavsinghdhakrekm-2291s-projects.vercel.app/
 A high-performance, visually stunning AI Chatbot built with **React**, **Three.js**, and **Tailwind CSS**. Experience seamless transitions between text-based reasoning and visual imagination in a fully immersive 3D environment.
 
 ## ✨ Key Features
@@ -54,4 +55,4 @@ The application follows a modular architecture:
 MIT License. Feel free to use and modify for your own projects.
 
 ---
-Built with ❤️ by [Your Name]
+Built with ❤️ by Abhinav
